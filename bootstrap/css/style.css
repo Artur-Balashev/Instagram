@@ -1,0 +1,416 @@
+body{
+    background-color:#fafafa;
+}
+
+.navbar-brand{
+    font-size: 170%;
+    font-family: Harlow Solid;
+    margin-right: 18%;
+    margin-left: 12%;
+}
+
+.gg{
+    width: 60%;
+    background-color: beige;
+}
+
+.icons{
+    width: 8%;
+    padding-left: 1vh;
+}
+
+.container1{
+    margin-left: 23%;
+    margin-top: 1%;
+
+}
+
+.inststart{
+    font-size: 170%;
+    font-family: Arial;
+}
+
+.inst{
+    width: 45%;
+    margin-left: 10vh;
+}
+
+.name {
+    font-size: 100%;
+    font-family: Arial;
+}
+
+.col{
+	padding-top: 2vh;
+}
+
+.confirmed{
+    width: 10%;
+}
+
+.col-10{
+    margin-top: 3%;
+}
+
+.col-2{
+    margin-top: 0.5%;
+}
+
+.container3{
+    margin-top: 3%;
+    margin-left: 5%;
+}
+
+
+.buttons{
+    background-color: #fafafa;
+    color: red;
+}
+
+.publication{
+    font-size: 103%;
+}
+
+.Instagram{
+    font-weight: bold;
+}
+
+.hashtag{
+    font-family: arial;
+    color: #006fb0;
+}
+
+.link{
+    font-weight: 500;
+    color: #00406b;
+}
+
+.text1{
+    color: black;
+}
+
+.nav-item{
+    margin-top: 1vh;
+}
+
+#item{
+    color: #999;
+}
+
+.container4{
+    margin-top: 1.5vh;
+    margin-left: 23.5%;
+    margin-right: 17.5vh;
+}
+
+.img2{
+    width: 100%;
+    height: 100%;
+    margin-bottom: 1.2vh;
+}
+
+.text-left{
+    margin-top: 2.4vh;
+}
+
+a{
+    text-decoration: none;
+}
+
+.Publication{
+    color: black;
+}
+
+.footer {
+    font-size: 75%;
+    padding-top: 1vh;
+    padding-bottom: 5vh;
+    margin-top: 1vh;
+    text-align: center;
+    
+}
+
+.footer-text{
+    color: #999;
+    padding-right: 1.2vh;
+    margin-top: 1.5vh;
+
+}
+
+.language {
+    border: none;
+    color: #999;
+    margin-right: 1vh;
+}
+
+
+.footer-container {
+    display: inline-flex;
+    flex-direction: row;
+    margin-top: 1.5vh;
+    padding-bottom: 2vh;
+}
+
+
+
+.vb1{
+    display:inline-flexbox;
+    flex-direction: row;
+}
+
+
+.img3{
+    border-radius: 50%;
+    width: 7%;
+    border-style: solid;
+    border-color:#E5E5E5;
+    margin-left: 16vh;
+}
+.img4{
+    border-radius: 50%;
+    border-style: solid;
+    border-color:#E5E5E5;
+    width: 7%;
+    margin-left: 4.7vh;
+}
+
+#carouselExampleControls{
+    margin-top: 4vh;
+    margin-bottom: 5vh;
+}
+
+
+.hr1{
+    width: 74%; 
+    margin: 0 20% 0 11%;
+    align: center;
+    color: #9E9E9E
+}
+
+select{
+    background-color: #fafafa;
+}
+
+.imagesd{
+    width: 0%;
+    visibility: hidden;
+}
+
+@media screen and (max-width: 600px){
+    
+    .navbar-brand{
+        position: absolute;
+        font-size: 170%;
+        font-family: Harlow Solid;
+        padding-left: 20%;
+    }
+    
+    .gg{
+        visibility: hidden;  
+    }
+    
+    .icons{
+        width: 0%;
+    }
+    
+    .container1{
+        margin-top: 1%;
+        margin-left: 5vh;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+
+    
+    .inststart{
+        font-size: 130%;
+        font-family: Arial;
+    }
+    
+    .name {
+        font-size: 50%;
+        font-family: Arial;
+    }
+    
+    .inst{
+        width: 130%;
+        margin-left: 0vh;
+    }
+
+
+    .col{
+        padding-left: 25%;
+        padding-top: 2vh;
+        width: 30%;
+    }
+
+
+
+    .col-2{
+        margin-top: 0.5%;
+    }
+
+    #subscribe{
+        font-size: 60%;
+    }
+    
+    #vvbn{
+        font-size: 60%;
+    }
+
+    .confirmed{
+        width: 0%;
+    }
+    
+    .col-10{
+        margin-top: 3%;
+    }
+    
+    
+    .container3{
+        margin-top: 3%;
+        margin-left: 5%;
+    }
+    
+    
+    .buttons{
+        background-color: #fafafa;
+        color: red;
+    }
+    
+    .publication{
+        font-size: 0%;
+    }
+    
+    .Instagram{
+        font-weight: bold;
+    }
+    
+    .hashtag{
+        font-family: arial;
+        color: #006fb0;
+    }
+    
+    .link{
+        font-weight: 500;
+        color: #00406b;
+    }
+    
+    .text1{
+        color: black;
+    }
+    
+    .nav-item{
+        margin-top: 1vh;
+        font-size: 75%;
+    }
+    
+    #item{
+        color: #999;
+    }
+    
+    .container4{
+        margin-top: 1.5vh;
+        margin-left: 1vh;
+        margin-right: 0.5vh;
+    }
+
+    #op2{
+        padding-left: 1vh;
+    }
+
+    .publication2{
+        margin-left: 5vh;
+    }
+    .col-3{
+        width:30%;
+    }
+    
+    .img2{
+        width: 100%;
+        margin-bottom: 1.2vh;
+    }
+    
+    .text-left{
+        margin-top: 2.4vh;
+        font-size: 0%;
+    }
+    
+    a{
+        text-decoration: none;
+    }
+    
+    .Publication{
+        color: black;
+    }
+    
+    .footer {
+        font-size: 70%;
+        padding-top: 1vh;
+        padding-bottom: 5vh;
+        margin-top: 1vh;
+        text-align: center;
+        margin-left: 1vh;
+    }
+    
+    .footer-text{
+        color: #999;
+        padding-right: 1vh;
+        margin-top: 1.5vh;
+    
+    }
+    
+    .language{
+        border: none;
+        color: #999;
+        margin-right: 1vh;
+    }
+    
+    
+    .footer-container{
+        display: inline-flex;
+        flex-direction: row;
+        margin-top: 1.5vh;
+        padding-bottom: 3vh;
+    }
+    
+    
+    
+    .vb1{
+        display:inline-flexbox;
+        flex-direction: row;
+    }
+    
+    
+    .img3{
+        border-radius: 50%;
+        width: 13%;
+        border-style: solid;
+        border-color:#E5E5E5;
+        margin-left: 10vh;
+    }
+    .img4{
+        border-radius: 50%;
+        border-style: solid;
+        border-color:#E5E5E5;
+        width: 14%;
+        margin-left: 4vh;
+    }
+    
+    #carouselExampleControls{
+        margin-top: 4vh;
+        margin-bottom: 5vh;
+    }
+    
+    
+    .hr1{
+        width: 85%; 
+        margin: 0 20% 0 8%;
+        align: center;
+        color: #9E9E9E
+    }
+    
+    select{
+        background-color: #fafafa;
+    }
+}
